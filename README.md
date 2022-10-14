@@ -1,3 +1,23 @@
+<h1>Firebase with React</h1>
+<hr />
+      <h4>First u create firebase acc and create projetct. then create app and get the config details for relavant app
+        create firebase config file and refer the firebase docs 
+      </h4>
+      <ul>
+        <li>Authantication</li>
+        <li>Athorization</li>
+        <li>Regiset user</li>
+        <li>Sign in user</li>
+        <li>Log in user</li>
+      </ul>
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
